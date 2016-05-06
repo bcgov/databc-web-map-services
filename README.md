@@ -17,7 +17,7 @@ To contribute to this project, you will need to fork the [GeoServer git reposito
 
 ## Why are we not posting this issue in the GeoServer Community?
 
-The quick answer is we are. We posted an issue in the GeoServer community - add link to issue.
+The quick answer is we are. We posted an [issue](https://osgeo-org.atlassian.net/browse/GEOS-7369) in the GeoServer community.
 
 But we really want to get this work done, so we are trying this new pay for pull experiment as a way to sponsor a developer to do the work. 
 
