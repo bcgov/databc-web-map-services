@@ -151,6 +151,10 @@ To indicate acceptance of the Terms, the Developer will complete the information
 
 A. Legal Name of Developer (person or entity):
 
+    Justin Eduard De Oliveira
+
 B. Legal Name of Person Submitting Pull Request on behalf of Developer (if different from "A"):
 
 C: Email Address for Developer's PayPal Account:
+
+    jdeolive@gmail.com
